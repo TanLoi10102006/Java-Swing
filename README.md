@@ -24,8 +24,8 @@ Các thư mục trong repo được sắp xếp theo từng chủ đề:
    - Tải và cài đặt [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html).
    - Kiểm tra bằng lệnh:
      ```bash
-     java -version
-     javac -version
+     java --version
+     javac --version
      ```
 
 2. **Cài đặt VS Code**
@@ -36,6 +36,7 @@ Các thư mục trong repo được sắp xếp theo từng chủ đề:
    ```bash
    git clone https://github.com/TanLoi10102006/Java-Programming-Course.git
 5. **Chạy chương trình trên terminal**
+     ```bash
    -javac TenFile.java
    -java TenFile
   
